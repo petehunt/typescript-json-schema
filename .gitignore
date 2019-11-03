@@ -8,4 +8,4 @@ yarn-error.log
 .idea
 *~
 .#*
-dist/
+
